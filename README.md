@@ -1,4 +1,3 @@
 # pandas
-Python Pandas
-Data Science with Python
+Data Science with Python Pandas
 * Pandas practice problems
